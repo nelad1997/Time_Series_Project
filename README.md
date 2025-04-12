@@ -2,8 +2,6 @@
 Project Overview
 This project focuses on analyzing and forecasting international flight departures from the United States between 1990 and 2020. The analysis integrates time series models with external economic indicators (CPI indices) to understand long-term trends, detect anomalies, and improve forecasting accuracy.
 
-## Key Goals:
-
 ### Data Integrity:
 Ensure clean, continuous, and reliable time series data by filtering, imputing, and aligning flight and CPI datasets.
 
@@ -13,7 +11,7 @@ Uncover recurring patterns and regime shifts using decomposition, residual diagn
 ### Model Evaluation:
 Compare multiple forecasting models using both absolute and relative performance metrics (MSE, MAPE).
 
-###Interpretability:
+### Interpretability:
 Incorporate economic context using CPI indices (Energy, Transportation, Gasoline) as exogenous regressors to enhance explainability of flight activity.
 
 ### Data Preprocessing:
