@@ -1,5 +1,4 @@
 # TimeSeris_Project
-Project Overview
 This project focuses on analyzing and forecasting international flight departures from the United States between 1990 and 2020. The analysis integrates time series models with external economic indicators (CPI indices) to understand long-term trends, detect anomalies, and improve forecasting accuracy.
 
 ### Data Integrity:
